@@ -1,0 +1,137 @@
+[
+  {
+    "query": "What is the total number of jobs reported?",
+    "steps": [
+      "Planner agent classified query into 'retrieve' task category",
+      "Retrieval agent searched document chunks for employment statistics",
+      "Verifier agent confirmed evidence in source text: True"
+    ],
+    "answer": "7351 jobs",
+    "source_page": 17,
+    "execution_time_ms": 0.2
+  },
+  {
+    "query": "Compare the concentration of Pure-Play cybersecurity firms in the South-West against the national average",
+    "steps": [
+      "Planner agent classified query into 'table' task category",
+      "Table agent analyzed firm distribution table and computed national percentage"
+    ],
+    "answer": "Pure-play firms represent 32.7% of firms nationally. The South-West shows higher concentration due to clustering in Cork.",
+    "source_page": null,
+    "execution_time_ms": 0.02
+  },
+  {
+    "query": "Based on the 2022 baseline and the stated 2030 job target, what is the required CAGR?",
+    "steps": [
+      "Planner agent classified query into 'math' task category",
+      "Math agent executed CAGR formula using baseline and target employment values"
+    ],
+    "answer": "11.05% CAGR required",
+    "source_page": null,
+    "execution_time_ms": 0.04
+  },
+  {
+    "query": "How many cybersecurity professionals work in Ireland?",
+    "steps": [
+      "Planner agent classified query into 'retrieve' task category",
+      "Retrieval agent searched document chunks for employment statistics",
+      "Verifier agent confirmed evidence in source text: True"
+    ],
+    "answer": "7351 jobs",
+    "source_page": 17,
+    "execution_time_ms": 0.51
+  },
+  {
+    "query": "What is the total number of jobs reported?",
+    "steps": [
+      "Planner agent classified query into 'retrieve' task category",
+      "Retrieval agent searched document chunks for employment statistics",
+      "Verifier agent confirmed evidence in source text: True"
+    ],
+    "answer": "7351 jobs",
+    "source_page": 17,
+    "execution_time_ms": 0.0
+  },
+  {
+    "query": "Compare the concentration of Pure-Play cybersecurity firms in the South-West against the national average",
+    "steps": [
+      "Planner agent classified query into 'table' task category",
+      "Table agent analyzed firm distribution table and computed national percentage"
+    ],
+    "answer": "Pure-play firms represent 32.7% of firms nationally. The South-West shows higher concentration due to clustering in Cork.",
+    "source_page": null,
+    "execution_time_ms": 21.46
+  },
+  {
+    "query": "What is the total number of jobs reported, and where exactly is this stated?",
+    "steps": [
+      "Planner agent classified query into 'retrieve' task category",
+      "Retrieval agent searched document chunks for employment statistics",
+      "Verifier agent confirmed evidence in source text: True"
+    ],
+    "answer": "7351 jobs",
+    "source_page": 17,
+    "execution_time_ms": 0.0
+  },
+  {
+    "query": "Compare the concentration of Pure-Play cybersecurity firms in the South-West against the national average",
+    "steps": [
+      "Planner agent classified query into 'table' task category",
+      "Table agent analyzed firm distribution table and computed national percentage"
+    ],
+    "answer": "Pure-play firms represent 32.7% of firms nationally. The South-West shows higher concentration due to clustering in Cork.",
+    "source_page": null,
+    "execution_time_ms": 4.74
+  },
+  {
+    "query": "Based on the 2022 baseline and the stated 2030 job target, what is the required compound annual growth rate (CAGR) to hit that goal?",
+    "steps": [
+      "Planner agent classified query into 'math' task category",
+      "Math agent executed CAGR formula using baseline and target employment values"
+    ],
+    "answer": "11.05% CAGR required",
+    "source_page": null,
+    "execution_time_ms": 0.35
+  },
+  {
+    "query": "What is the total number of jobs reported?",
+    "steps": [
+      "Planner agent classified query into 'retrieve' task category",
+      "Retrieval agent searched document chunks for employment statistics",
+      "Verifier agent confirmed evidence in source text: True"
+    ],
+    "answer": "7351 jobs",
+    "source_page": 17,
+    "execution_time_ms": 0.0
+  },
+  {
+    "query": "Compare the concentration of Pure-Play cybersecurity firms in the South-West against the national average",
+    "steps": [
+      "Planner agent classified query into 'table' task category",
+      "Table agent analyzed firm distribution table and computed national percentage"
+    ],
+    "answer": "Pure-play firms represent 32.7% of firms nationally. The South-West shows higher concentration due to clustering in Cork.",
+    "source_page": null,
+    "execution_time_ms": 18.22
+  },
+  {
+    "query": "What CAGR is required to reach 17000 jobs?",
+    "steps": [
+      "Planner agent classified query into 'math' task category",
+      "Math agent executed CAGR formula using baseline and target employment values"
+    ],
+    "answer": "11.05% CAGR required",
+    "source_page": null,
+    "execution_time_ms": 0.0
+  },
+  {
+    "query": "Compare pure-play firms in South-West vs national average",
+    "steps": [
+      "Planner agent classified query into 'table' task category",
+      "Table agent analyzed firm distribution table and computed national percentage"
+    ],
+    "answer": "Pure-play firms represent 32.7% of firms nationally. The South-West shows higher concentration due to clustering in Cork.",
+    "source_page": null,
+    "execution_time_ms": 17.18
+  }
+]
